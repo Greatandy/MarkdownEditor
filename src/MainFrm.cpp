@@ -51,7 +51,7 @@ IMPLEMENT_DYNCREATE(CMainFrame, CFrameWnd)
 		if (CFrameWnd::OnCreate(lpCreateStruct) == -1)
 			return -1;
 
-		this->MoveWindow(0,0,800,600);
+		//this->MoveWindow(0,0,800,600);
 		this->CenterWindow();
 
 		if (!m_wndStatusBar.Create(this))
@@ -60,9 +60,7 @@ IMPLEMENT_DYNCREATE(CMainFrame, CFrameWnd)
 			return -1;      // Î´ÄÜ´´½¨
 		}
 		m_wndStatusBar.SetIndicators(indicators, sizeof(indicators)/sizeof(UINT));
-
-
-
+		OnSwitch();
 		return 0;
 	}
 
