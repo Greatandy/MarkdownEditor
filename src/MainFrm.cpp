@@ -193,6 +193,18 @@ Markdown ÊÇÒ»ÖÖ·½±ã¼ÇÒä¡¢ÊéÐ´µÄ´¿ÎÄ±¾±ê¼ÇÓïÑÔ£¬ÓÃ»§¿ÉÒÔÊ¹ÓÃÕâÐ©±ê¼Ç·ûºÅÒÔ×îÐ¡µÄÊ
 | ÊÖ»ú        |  \\$12   |   12   |\r\n\
 | ¹ÜÏß        |    \\$1    |  234  |\r\n\
 \r\n\
+### 3. ²åÈë´úÂë\r\n\
+Ê¹ÓÃÆ®ºÅ\r\n\
+\r\n\
+```javascript\r\n\
+var s = \"JavaScript syntax highlighting\";\r\n\
+alert(s);\r\n\
+```\r\n\
+\r\n\
+Ê¹ÓÃTab¼ü\r\n\
+	\r\n\
+	code here, no space \r\n\
+	\r\n\
 ---\r\n\
 \r\n\
 ## Ê²Ã´ÊÇ MarkdownEditor\r\n\
@@ -203,7 +215,7 @@ Markdown ÊÇÒ»ÖÖ·½±ã¼ÇÒä¡¢ÊéÐ´µÄ´¿ÎÄ±¾±ê¼ÇÓïÑÔ£¬ÓÃ»§¿ÉÒÔÊ¹ÓÃÕâÐ©±ê¼Ç·ûºÅÒÔ×îÐ¡µÄÊ
 \r\n\
 ÎÒÃÇ½« MarkdownEditor µÄÖ÷½çÃæÒ»·ÖÎª¶þ£¬×ó±ßÎª**±à¼­Çø**£¬ÓÒ±ßÎª**Ô¤ÀÀÇø**£¬ÔÚ±à¼­ÇøµÄ²Ù×÷»áÊµÊ±µØäÖÈ¾µ½Ô¤ÀÀÇø·½±ã²é¿´×îÖÕµÄ°æÃæÐ§¹û£¬³¬¿á£¡\r\n\
 \r\n\
-### 3. ±à¼­Ä£Ê½\r\n\
+### 2. ±à¼­Ä£Ê½\r\n\
 \r\n\
 ÍêÈ«ÐÄÎÞÅÔæðµÄ·½Ê½±à¼­ÎÄ×Ö£ºµã»÷²Ëµ¥ **²é¿´/±à¼­** ÇÐ»»µ½¶ÀÁ¢µÄ±à¼­Ä£Ê½£¬ÕâÊÇÒ»¸ö¼«¶È¼ò½àµÄÐ´×÷»·¾³£¬ËùÓÐ¿ÉÄÜ»áÒýÆð·ÖÐÄµÄÔªËØ¶¼ÒÑ¾­±»Å²³ý£¬³¬ÇåË¬£¡\r\n\
 \r\n\
