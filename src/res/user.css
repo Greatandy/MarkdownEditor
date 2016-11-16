@@ -69,6 +69,11 @@ h6 {
 p,blockquote,ol,dl,table,pre {
 	margin:15px 0;
 }
+p {
+  text-indent: 2em;  
+  word-break: break-all;
+  word-wrap:break-word;
+}
 ul {
 	margin:0;
 }
